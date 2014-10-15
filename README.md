@@ -7,5 +7,5 @@ This is a very simple tool that utilizes the minecraft web API to pass usernames
 
 The output is stored in a file named whitelist.json, and can be dropped into the new 1.7.9 and 1.8 Minecraft Servers.
 
-USE ARE YOUR OWN RISK
+USE AT YOUR OWN RISK
 NO WARRANTIES
