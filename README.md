@@ -18,4 +18,4 @@ To use the Jar file:
 
 java -jar NameToUUID.jar whitelist.txt
 
-java -jar /path/to/jar/NameToUUID.jar/path/to/file/whitelist.txt
+java -jar /path/to/jar/NameToUUID.jar /path/to/file/whitelist.txt
