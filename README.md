@@ -7,5 +7,14 @@ This is a very simple tool that utilizes the minecraft web API to pass usernames
 
 The output is stored in a file named whitelist.json, and can be dropped into the new 1.7.9 and 1.8 Minecraft Servers.
 
-USE AT YOUR OWN RISK
+USE AT YOUR OWN RISK 
+
 NO WARRANTIES
+
+
+-------------------------
+
+To use the Jar file:
+
+java -jar NameToUUID.jar whitelist.txt
+java -jar /path/to/jar/NameToUUID.jar /path/to/file/whitelist.txt
